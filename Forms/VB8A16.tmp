@@ -1,0 +1,400 @@
+VERSION 5.00
+Object = "{BDC217C8-ED16-11CD-956C-0000C04E4C0A}#1.1#0"; "TABCTL32.OCX"
+Object = "{CDE57A40-8B86-11D0-B3C6-00A0C90AEA82}#1.0#0"; "MSDATGRD.OCX"
+Object = "{67397AA1-7FB1-11D0-B148-00A0C922E820}#6.0#0"; "MSADODC.OCX"
+Object = "{EAFDAFBF-1D88-41DD-B117-60ECBC4B8441}#1.0#0"; "vkUserControlsXP.ocx"
+Begin VB.Form Stu_Rank 
+   BorderStyle     =   3  'Fixed Dialog
+   Caption         =   "Global Ranking"
+   ClientHeight    =   9915
+   ClientLeft      =   45
+   ClientTop       =   375
+   ClientWidth     =   15840
+   Icon            =   "student_Rank.frx":0000
+   LinkTopic       =   "Form5"
+   MaxButton       =   0   'False
+   MDIChild        =   -1  'True
+   MinButton       =   0   'False
+   ScaleHeight     =   9915
+   ScaleWidth      =   15840
+   ShowInTaskbar   =   0   'False
+   Begin MSAdodcLib.Adodc Adodc1 
+      Height          =   495
+      Left            =   9360
+      Top             =   6720
+      Visible         =   0   'False
+      Width           =   1935
+      _ExtentX        =   3413
+      _ExtentY        =   873
+      ConnectMode     =   0
+      CursorLocation  =   3
+      IsolationLevel  =   -1
+      ConnectionTimeout=   15
+      CommandTimeout  =   30
+      CursorType      =   3
+      LockType        =   3
+      CommandType     =   8
+      CursorOptions   =   0
+      CacheSize       =   50
+      MaxRecords      =   0
+      BOFAction       =   0
+      EOFAction       =   0
+      ConnectStringType=   1
+      Appearance      =   1
+      BackColor       =   -2147483643
+      ForeColor       =   -2147483640
+      Orientation     =   0
+      Enabled         =   -1
+      Connect         =   "Provider=MSDAORA.1;Password=sts;User ID=sts;Persist Security Info=True"
+      OLEDBString     =   "Provider=MSDAORA.1;Password=sts;User ID=sts;Persist Security Info=True"
+      OLEDBFile       =   ""
+      DataSourceName  =   ""
+      OtherAttributes =   ""
+      UserName        =   ""
+      Password        =   ""
+      RecordSource    =   $"student_Rank.frx":6062
+      Caption         =   "Adodc1"
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "MS Sans Serif"
+         Size            =   8.25
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      _Version        =   393216
+   End
+   Begin VB.Timer Timer2 
+      Interval        =   50
+      Left            =   9600
+      Top             =   7320
+   End
+   Begin VB.Timer Timer1 
+      Interval        =   20
+      Left            =   10320
+      Top             =   7320
+   End
+   Begin VB.Frame Frame1 
+      BackColor       =   &H8000000D&
+      BorderStyle     =   0  'None
+      Height          =   375
+      Left            =   0
+      TabIndex        =   27
+      Top             =   9600
+      Width           =   11895
+      Begin VB.Label Label7 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "*"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   15.75
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C0FFFF&
+         Height          =   360
+         Left            =   240
+         TabIndex        =   29
+         Top             =   40
+         Width           =   120
+      End
+      Begin VB.Label Label6 
+         AutoSize        =   -1  'True
+         BackColor       =   &H8000000D&
+         Caption         =   "Note :- Double Click or right Click on any Name to See Info about student..."
+         BeginProperty Font 
+            Name            =   "Calibri"
+            Size            =   11.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00FFFFFF&
+         Height          =   270
+         Left            =   480
+         TabIndex        =   28
+         Top             =   30
+         Width           =   6885
+      End
+   End
+   Begin vkUserContolsXP.vkFrame vkFrame1 
+      Height          =   9975
+      Left            =   11880
+      TabIndex        =   15
+      Top             =   0
+      Width           =   3975
+      _ExtentX        =   7011
+      _ExtentY        =   17595
+      Caption         =   "Student Info"
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "Calibri"
+         Size            =   12
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      TitleHeight     =   400
+      Begin VB.CommandButton Command1 
+         BackColor       =   &H00E0E0E0&
+         Caption         =   "Close"
+         BeginProperty Font 
+            Name            =   "Calibri"
+            Size            =   11.25
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Height          =   855
+         Left            =   1320
+         MouseIcon       =   "student_Rank.frx":6166
+         MousePointer    =   99  'Custom
+         Picture         =   "student_Rank.frx":62B8
+         Style           =   1  'Graphical
+         TabIndex        =   26
+         Top             =   8520
+         Width           =   1335
+      End
+      Begin VB.Label Label5 
+         BackStyle       =   0  'Transparent
+         Caption         =   "Contact No :"
+         BeginProperty Font 
+            Name            =   "Calibri"
+            Size            =   12
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Height          =   615
+         Left            =   315
+         TabIndex        =   25
+         Top             =   7080
+         Width           =   1215
+      End
+      Begin VB.Label Label4 
+         BackStyle       =   0  'Transparent
+         Caption         =   "Course :"
+         BeginProperty Font 
+            Name            =   "Calibri"
+            Size            =   12
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Height          =   615
+         Left            =   720
+         TabIndex        =   24
+         Top             =   6480
+         Width           =   1095
+      End
+      Begin VB.Label Label3 
+         BackStyle       =   0  'Transparent
+         Caption         =   "Join date :"
+         BeginProperty Font 
+            Name            =   "Calibri"
+            Size            =   12
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Height          =   615
+         Left            =   525
+         TabIndex        =   23
+         Top             =   5880
+         Width           =   1095
+      End
+      Begin VB.Label Label2 
+         BackStyle       =   0  'Transparent
+         Caption         =   "Father Name :"
+         BeginProperty Font 
+            Name            =   "Calibri"
+            Size            =   12
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Height          =   615
+         Left            =   150
+         TabIndex        =   22
+         Top             =   5280
+         Width           =   1455
+      End
+      Begin VB.Label Label1 
+         BackStyle       =   0  'Transparent
+         Caption         =   "Name :"
+         BeginProperty Font 
+            Name            =   "Calibri"
+            Size            =   12
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Height          =   615
+         Left            =   840
+         TabIndex        =   21
+         Top             =   4680
+         Width           =   1095
+      End
+      Begin VB.Label l5 
+         BackStyle       =   0  'Transparent
+         Caption         =   "Not Available"
+         BeginProperty Font 
+            Name            =   "Calibri"
+            Size            =   12
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Height          =   495
+         Left            =   1800
+         TabIndex        =   20
+         Top             =   7080
+         Width           =   2055
+      End
+      Begin VB.Label l4 
+         BackStyle       =   0  'Transparent
+         Caption         =   "Not Available"
+         BeginProperty Font 
+            Name            =   "Calibri"
+            Size            =   12
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Height          =   495
+         Left            =   1800
+         TabIndex        =   19
+         Top             =   6480
+         Width           =   2055
+      End
+      Begin VB.Label l3 
+         BackStyle       =   0  'Transparent
+         Caption         =   "Not Available"
+         BeginProperty Font 
+            Name            =   "Calibri"
+            Size            =   12
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Height          =   495
+         Left            =   1800
+         TabIndex        =   18
+         Top             =   5880
+         Width           =   2055
+      End
+      Begin VB.Label l2 
+         BackStyle       =   0  'Transparent
+         Caption         =   "Not Available"
+         BeginProperty Font 
+            Name            =   "Calibri"
+            Size            =   12
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Height          =   495
+         Left            =   1800
+         TabIndex        =   17
+         Top             =   5280
+         Width           =   2055
+      End
+      Begin VB.Label l1 
+         BackStyle       =   0  'Transparent
+         Caption         =   "Not Availble"
+         BeginProperty Font 
+            Name            =   "Calibri"
+            Size            =   12
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Height          =   495
+         Left            =   1800
+         TabIndex        =   16
+         Top             =   4680
+         Width           =   2055
+      End
+      Begin VB.Image Image1 
+         Height          =   3600
+         Left            =   660
+         Picture         =   "student_Rank.frx":6CA2
+         Stretch         =   -1  'True
+         Top             =   720
+         Width           =   2760
+      End
+   End
+   Begin VB.TextBox Text1 
+      Height          =   615
+      Left            =   9360
+      TabIndex        =   14
+      Text            =   "Text1"
+      Top             =   7200
+      Visible         =   0   'False
+      Width           =   1935
+   End
+   Begin VB.TextBox Text2 
+      Height          =   615
+      Left            =   9360
+      TabIndex        =   13
+      Text            =   "Text2"
+      Top             =   7800
+      Visible         =   0   'False
+      Width           =   1935
+   End
+   Begin TabDlg.SSTab SSTab1 
+      Height          =   9615
+      Left            =   0
+      TabIndex        =   0
+      Top             =   0
+      Width           =   11895
+      _ExtentX        =   20981
+      _ExtentY        =   16960
+      _Version        =   393216
+      MousePointer    =   99
+      Tabs            =   4
+      Tab             =   1
+      TabsPerRow      =   4
+      TabHeight       =   706
+      MouseIcon       =   "student_Rank.frx":860F
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "Calibri"
+         Size            =   12
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      TabCaption(0)   =   "Today "
+      TabPicture(0)   =   "student_Rank.frx"
