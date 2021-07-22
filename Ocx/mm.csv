@@ -1,0 +1,7 @@
+Q_No,Question,Opt1,Opt2,Opt3,Opt4,Answer,Ans_no,Explanation
+1,C++ was originally developed by __________,Denitch richi,Donald Knuth,Bjarne Stroustrup,Ken Thompson,Bjarne Stroustrup,3,C++ was developed in At & T bell laborateries.
+2,The standard C++ Comment is ,/,//,/* and */,None of these,//,2,// is main comment sign.
+3,The Operator  <<  is called ,Insertion Operator,Put to Operator,Either a or b,None of these,Insertion Operator,1,<< in C++ is same as Scanf() in C.
+4,A Constructor is called whenever _________,An Object is created ,An Object is used,A Class is declared,A Class is used,An Object is created ,1,Distructor is called when object is destroyed.
+5,Overload Function in C++ is ,A Group function with the same name,Function with the same name and same number and type of arguments.,all have the same number and type of arguments.,All of the above,A Group function with the same name,1,Not Available
+6,Operator Overloading is ,Making C++ operators Works with Object.,giving new meaning to existing C++ Operators.,Making New C++ Operator.,Both A & B,Both A & B,4,Not Available
