@@ -1,0 +1,32 @@
+Line 22: Class CoolXPButton.xpButton of control xpButton1 was not a loaded control class.
+Line 59: Class ChamaleonButton.ChameleonBtn of control LogIn_btn was not a loaded control class.
+Line 173: Class ROUNDFRM.RoundForm of control RoundForm1 was not a loaded control class.
+Line 28: The property name _ExtentX in xpButton1 is invalid.
+Line 29: The property name _ExtentY in xpButton1 is invalid.
+Line 30: The property name Caption in xpButton1 is invalid.
+Line 48: The property name FontOnMouseOver in xpButton1 is invalid.
+Line 57: The property name FontDown in xpButton1 is invalid.
+Line 65: The property name _ExtentX in LogIn_btn is invalid.
+Line 66: The property name _ExtentY in LogIn_btn is invalid.
+Line 67: The property name BTYPE in LogIn_btn is invalid.
+Line 68: The property name TX in LogIn_btn is invalid.
+Line 69: The property name ENAB in LogIn_btn is invalid.
+Line 79: The property name COLTYPE in LogIn_btn is invalid.
+Line 80: The property name FOCUSR in LogIn_btn is invalid.
+Line 81: The property name BCOL in LogIn_btn is invalid.
+Line 82: The property name BCOLO in LogIn_btn is invalid.
+Line 83: The property name FCOL in LogIn_btn is invalid.
+Line 84: The property name FCOLO in LogIn_btn is invalid.
+Line 85: The property name MCOL in LogIn_btn is invalid.
+Line 86: The property name MPTR in LogIn_btn is invalid.
+Line 87: The property name MICON in LogIn_btn is invalid.
+Line 88: The property name UMCOL in LogIn_btn is invalid.
+Line 89: The property name SOFT in LogIn_btn is invalid.
+Line 90: The property name PICPOS in LogIn_btn is invalid.
+Line 91: The property name NGREY in LogIn_btn is invalid.
+Line 92: The property name FX in LogIn_btn is invalid.
+Line 93: The property name HAND in LogIn_btn is invalid.
+Line 94: The property name CHECK in LogIn_btn is invalid.
+Line 95: The property name VALUE in LogIn_btn is invalid.
+Line 176: The property name _ExtentX in RoundForm1 is invalid.
+Line 177: The property name _ExtentY in RoundForm1 is invalid.

@@ -1,0 +1,383 @@
+Line 16: Class vkUserContolsXP.vkCommand of control vkCommand19 was not a loaded control class.
+Line 35: Class vkUserContolsXP.vkCommand of control vkCommand20 was not a loaded control class.
+Line 81: Class vkUserContolsXP.vkOptionButton of control vkOptionButton1 was not a loaded control class.
+Line 104: Class RichTextLib.RichTextBox of control RichTextBox2 was not a loaded control class.
+Line 127: Class RichTextLib.RichTextBox of control RichTextBox3 was not a loaded control class.
+Line 150: Class RichTextLib.RichTextBox of control RichTextBox4 was not a loaded control class.
+Line 173: Class RichTextLib.RichTextBox of control RichTextBox5 was not a loaded control class.
+Line 196: Class vkUserContolsXP.vkOptionButton of control vkOptionButton2 was not a loaded control class.
+Line 219: Class vkUserContolsXP.vkOptionButton of control vkOptionButton3 was not a loaded control class.
+Line 242: Class vkUserContolsXP.vkOptionButton of control vkOptionButton4 was not a loaded control class.
+Line 527: Class vkUserContolsXP.vkCommand of control vkCommand18 was not a loaded control class.
+Line 555: Class vkUserContolsXP.vkCommand of control vkCommand17 was not a loaded control class.
+Line 574: Class vkUserContolsXP.vkCommand of control vkCommand12 was not a loaded control class.
+Line 594: Class vkUserContolsXP.vkCommand of control vkCommand9 was not a loaded control class.
+Line 613: Class vkUserContolsXP.vkCommand of control vkCommand10 was not a loaded control class.
+Line 632: Class vkUserContolsXP.vkCommand of control vkCommand13 was not a loaded control class.
+Line 651: Class vkUserContolsXP.vkCommand of control vkCommand14 was not a loaded control class.
+Line 670: Class vkUserContolsXP.vkCommand of control vkCommand15 was not a loaded control class.
+Line 689: Class vkUserContolsXP.vkFrame of control vkFrame6 was not a loaded control class.
+Line 714: Class vkUserContolsXP.vkCommand of control vkCommand5 was not a loaded control class.
+Line 737: Class vkUserContolsXP.vkCommand of control vkCommand6 was not a loaded control class.
+Line 768: Class vkUserContolsXP.vkFrame of control vkFrame8 was not a loaded control class.
+Line 817: Class vkUserContolsXP.vkCheck of control vkCheck1 was not a loaded control class.
+Line 837: Class vkUserContolsXP.vkFrame of control vkFrame4 was not a loaded control class.
+Line 859: Class vkUserContolsXP.vkCommand of control vkCommand3 was not a loaded control class.
+Line 881: Class vkUserContolsXP.vkCommand of control vkCommand1 was not a loaded control class.
+Line 903: Class vkUserContolsXP.vkCommand of control vkCommand2 was not a loaded control class.
+Line 925: Class vkUserContolsXP.vkCommand of control vkCommand4 was not a loaded control class.
+Line 947: Class vkUserContolsXP.vkCommand of control vkCommand11 was not a loaded control class.
+Line 969: Class vkUserContolsXP.vkCommand of control vkCommand16 was not a loaded control class.
+Line 992: Class vkUserContolsXP.vkFrame of control vkFrame3 was not a loaded control class.
+Line 1032: Class vkUserContolsXP.vkToggleButton of control vkToggleButton1 was not a loaded control class.
+Line 1054: Class vkUserContolsXP.vkToggleButton of control vkToggleButton3 was not a loaded control class.
+Line 1076: Class vkUserContolsXP.vkToggleButton of control vkToggleButton4 was not a loaded control class.
+Line 1098: Class vkUserContolsXP.vkToggleButton of control vkToggleButton5 was not a loaded control class.
+Line 1120: Class vkUserContolsXP.vkToggleButton of control vkToggleButton6 was not a loaded control class.
+Line 1143: Class vkUserContolsXP.vkToggleButton of control vkToggleButton2 was not a loaded control class.
+Line 1166: Class RichTextLib.RichTextBox of control RichTextBox1 was not a loaded control class.
+Line 1188: Class vkUserContolsXP.vkLabel of control vkLabel4 was not a loaded control class.
+Line 1210: Class vkUserContolsXP.vkFrame of control vkFrame16 was not a loaded control class.
+Line 1234: Class vkUserContolsXP.vkFrame of control vkFrame1 was not a loaded control class.
+Line 1259: Class vkUserContolsXP.vkFrame of control vkFrame2 was not a loaded control class.
+Line 1281: Class vkUserContolsXP.vkLabel of control vkLabel2 was not a loaded control class.
+Line 1302: Class vkUserContolsXP.vkLabel of control vkLabel3 was not a loaded control class.
+Line 1323: Class vkUserContolsXP.vkLabel of control vkLabel1 was not a loaded control class.
+Line 1369: Class vkUserContolsXP.vkFrame of control vkFrame5 was not a loaded control class.
+Line 1395: Class vkUserContolsXP.vkFrame of control vkFrame7 was not a loaded control class.
+Line 1421: Class vkUserContolsXP.vkFrame of control vkFrame9 was not a loaded control class.
+Line 1447: Class vkUserContolsXP.vkFrame of control vkFrame10 was not a loaded control class.
+Line 1473: Class vkUserContolsXP.vkFrame of control vkFrame11 was not a loaded control class.
+Line 1499: Class vkUserContolsXP.vkFrame of control vkFrame12 was not a loaded control class.
+Line 1521: Class vkUserContolsXP.vkCommand of control vkCommand7 was not a loaded control class.
+Line 1544: Class vkUserContolsXP.vkFrame of control vkFrame13 was not a loaded control class.
+Line 1570: Class vkUserContolsXP.vkFrame of control vkFrame14 was not a loaded control class.
+Line 1592: Class vkUserContolsXP.vkCommand of control vkCommand8 was not a loaded control class.
+Line 1615: Class vkUserContolsXP.vkFrame of control vkFrame15 was not a loaded control class.
+Line 22: The property name _ExtentX in vkCommand19 is invalid.
+Line 23: The property name _ExtentY in vkCommand19 is invalid.
+Line 24: The property name Caption in vkCommand19 is invalid.
+Line 41: The property name _ExtentX in vkCommand20 is invalid.
+Line 42: The property name _ExtentY in vkCommand20 is invalid.
+Line 43: The property name Caption in vkCommand20 is invalid.
+Line 87: The property name _ExtentX in vkOptionButton1 is invalid.
+Line 88: The property name _ExtentY in vkOptionButton1 is invalid.
+Line 90: The property name BackStyle in vkOptionButton1 is invalid.
+Line 91: The property name Caption in vkOptionButton1 is invalid.
+Line 101: The property name Group in vkOptionButton1 is invalid.
+Line 102: The property name Alignment in vkOptionButton1 is invalid.
+Line 110: The property name _ExtentX in RichTextBox2 is invalid.
+Line 111: The property name _ExtentY in RichTextBox2 is invalid.
+Line 112: The property name _Version in RichTextBox2 is invalid.
+Line 116: The property name TextRTF in RichTextBox2 is invalid.
+Line 133: The property name _ExtentX in RichTextBox3 is invalid.
+Line 134: The property name _ExtentY in RichTextBox3 is invalid.
+Line 135: The property name _Version in RichTextBox3 is invalid.
+Line 139: The property name TextRTF in RichTextBox3 is invalid.
+Line 156: The property name _ExtentX in RichTextBox4 is invalid.
+Line 157: The property name _ExtentY in RichTextBox4 is invalid.
+Line 158: The property name _Version in RichTextBox4 is invalid.
+Line 162: The property name TextRTF in RichTextBox4 is invalid.
+Line 179: The property name _ExtentX in RichTextBox5 is invalid.
+Line 180: The property name _ExtentY in RichTextBox5 is invalid.
+Line 181: The property name _Version in RichTextBox5 is invalid.
+Line 185: The property name TextRTF in RichTextBox5 is invalid.
+Line 202: The property name _ExtentX in vkOptionButton2 is invalid.
+Line 203: The property name _ExtentY in vkOptionButton2 is invalid.
+Line 205: The property name BackStyle in vkOptionButton2 is invalid.
+Line 206: The property name Caption in vkOptionButton2 is invalid.
+Line 216: The property name Group in vkOptionButton2 is invalid.
+Line 217: The property name Alignment in vkOptionButton2 is invalid.
+Line 225: The property name _ExtentX in vkOptionButton3 is invalid.
+Line 226: The property name _ExtentY in vkOptionButton3 is invalid.
+Line 228: The property name BackStyle in vkOptionButton3 is invalid.
+Line 229: The property name Caption in vkOptionButton3 is invalid.
+Line 239: The property name Group in vkOptionButton3 is invalid.
+Line 240: The property name Alignment in vkOptionButton3 is invalid.
+Line 248: The property name _ExtentX in vkOptionButton4 is invalid.
+Line 249: The property name _ExtentY in vkOptionButton4 is invalid.
+Line 251: The property name BackStyle in vkOptionButton4 is invalid.
+Line 252: The property name Caption in vkOptionButton4 is invalid.
+Line 262: The property name Group in vkOptionButton4 is invalid.
+Line 263: The property name Alignment in vkOptionButton4 is invalid.
+Line 533: The property name _ExtentX in vkCommand18 is invalid.
+Line 534: The property name _ExtentY in vkCommand18 is invalid.
+Line 535: The property name BackColor1 in vkCommand18 is invalid.
+Line 536: The property name BackColor2 in vkCommand18 is invalid.
+Line 537: The property name BackColorPushed1 in vkCommand18 is invalid.
+Line 538: The property name BackColorPushed2 in vkCommand18 is invalid.
+Line 539: The property name Caption in vkCommand18 is invalid.
+Line 550: The property name BorderColor in vkCommand18 is invalid.
+Line 552: The property name DisabledBackColor in vkCommand18 is invalid.
+Line 553: The property name CustomStyle in vkCommand18 is invalid.
+Line 527: Property Picture in vkCommand18 could not be set.
+Line 561: The property name _ExtentX in vkCommand17 is invalid.
+Line 562: The property name _ExtentY in vkCommand17 is invalid.
+Line 555: Property Picture in vkCommand17 could not be set.
+Line 580: The property name _ExtentX in vkCommand12 is invalid.
+Line 581: The property name _ExtentY in vkCommand12 is invalid.
+Line 582: The property name Caption in vkCommand12 is invalid.
+Line 574: Property Picture in vkCommand12 could not be set.
+Line 600: The property name _ExtentX in vkCommand9 is invalid.
+Line 601: The property name _ExtentY in vkCommand9 is invalid.
+Line 602: The property name Caption in vkCommand9 is invalid.
+Line 619: The property name _ExtentX in vkCommand10 is invalid.
+Line 620: The property name _ExtentY in vkCommand10 is invalid.
+Line 621: The property name Caption in vkCommand10 is invalid.
+Line 638: The property name _ExtentX in vkCommand13 is invalid.
+Line 639: The property name _ExtentY in vkCommand13 is invalid.
+Line 640: The property name Caption in vkCommand13 is invalid.
+Line 657: The property name _ExtentX in vkCommand14 is invalid.
+Line 658: The property name _ExtentY in vkCommand14 is invalid.
+Line 659: The property name Caption in vkCommand14 is invalid.
+Line 676: The property name _ExtentX in vkCommand15 is invalid.
+Line 677: The property name _ExtentY in vkCommand15 is invalid.
+Line 678: The property name Caption in vkCommand15 is invalid.
+Line 695: The property name _ExtentX in vkFrame6 is invalid.
+Line 696: The property name _ExtentY in vkFrame6 is invalid.
+Line 697: The property name BackColor1 in vkFrame6 is invalid.
+Line 698: The property name Caption in vkFrame6 is invalid.
+Line 708: The property name ShowBackGround in vkFrame6 is invalid.
+Line 709: The property name ShowTitle in vkFrame6 is invalid.
+Line 710: The property name TextPosition in vkFrame6 is invalid.
+Line 711: The property name BorderColor in vkFrame6 is invalid.
+Line 712: The property name PictureAlignment in vkFrame6 is invalid.
+Line 713: The property name DisplayPicture in vkFrame6 is invalid.
+Line 720: The property name _ExtentX in vkCommand5 is invalid.
+Line 721: The property name _ExtentY in vkCommand5 is invalid.
+Line 722: The property name Caption in vkCommand5 is invalid.
+Line 732: The property name BorderColor in vkCommand5 is invalid.
+Line 734: The property name DisabledBackColor in vkCommand5 is invalid.
+Line 735: The property name CustomStyle in vkCommand5 is invalid.
+Line 714: Property Picture in vkCommand5 could not be set.
+Line 743: The property name _ExtentX in vkCommand6 is invalid.
+Line 744: The property name _ExtentY in vkCommand6 is invalid.
+Line 745: The property name Caption in vkCommand6 is invalid.
+Line 755: The property name BorderColor in vkCommand6 is invalid.
+Line 757: The property name CustomStyle in vkCommand6 is invalid.
+Line 737: Property Picture in vkCommand6 could not be set.
+Line 774: The property name _ExtentX in vkFrame8 is invalid.
+Line 775: The property name _ExtentY in vkFrame8 is invalid.
+Line 776: The property name Caption in vkFrame8 is invalid.
+Line 786: The property name ShowBackGround in vkFrame8 is invalid.
+Line 787: The property name ShowTitle in vkFrame8 is invalid.
+Line 788: The property name TextPosition in vkFrame8 is invalid.
+Line 789: The property name BorderColor in vkFrame8 is invalid.
+Line 823: The property name _ExtentX in vkCheck1 is invalid.
+Line 824: The property name _ExtentY in vkCheck1 is invalid.
+Line 825: The property name Caption in vkCheck1 is invalid.
+Line 843: The property name _ExtentX in vkFrame4 is invalid.
+Line 844: The property name _ExtentY in vkFrame4 is invalid.
+Line 845: The property name Caption in vkFrame4 is invalid.
+Line 855: The property name ShowBackGround in vkFrame4 is invalid.
+Line 856: The property name ShowTitle in vkFrame4 is invalid.
+Line 857: The property name TextPosition in vkFrame4 is invalid.
+Line 858: The property name BorderColor in vkFrame4 is invalid.
+Line 865: The property name _ExtentX in vkCommand3 is invalid.
+Line 866: The property name _ExtentY in vkCommand3 is invalid.
+Line 867: The property name Caption in vkCommand3 is invalid.
+Line 877: The property name BorderColor in vkCommand3 is invalid.
+Line 879: The property name CustomStyle in vkCommand3 is invalid.
+Line 859: Property Picture in vkCommand3 could not be set.
+Line 887: The property name _ExtentX in vkCommand1 is invalid.
+Line 888: The property name _ExtentY in vkCommand1 is invalid.
+Line 889: The property name Caption in vkCommand1 is invalid.
+Line 899: The property name BorderColor in vkCommand1 is invalid.
+Line 901: The property name CustomStyle in vkCommand1 is invalid.
+Line 881: Property Picture in vkCommand1 could not be set.
+Line 909: The property name _ExtentX in vkCommand2 is invalid.
+Line 910: The property name _ExtentY in vkCommand2 is invalid.
+Line 911: The property name Caption in vkCommand2 is invalid.
+Line 921: The property name BorderColor in vkCommand2 is invalid.
+Line 923: The property name CustomStyle in vkCommand2 is invalid.
+Line 903: Property Picture in vkCommand2 could not be set.
+Line 931: The property name _ExtentX in vkCommand4 is invalid.
+Line 932: The property name _ExtentY in vkCommand4 is invalid.
+Line 933: The property name Caption in vkCommand4 is invalid.
+Line 943: The property name BorderColor in vkCommand4 is invalid.
+Line 945: The property name CustomStyle in vkCommand4 is invalid.
+Line 925: Property Picture in vkCommand4 could not be set.
+Line 953: The property name _ExtentX in vkCommand11 is invalid.
+Line 954: The property name _ExtentY in vkCommand11 is invalid.
+Line 955: The property name Caption in vkCommand11 is invalid.
+Line 965: The property name BorderColor in vkCommand11 is invalid.
+Line 967: The property name CustomStyle in vkCommand11 is invalid.
+Line 947: Property Picture in vkCommand11 could not be set.
+Line 975: The property name _ExtentX in vkCommand16 is invalid.
+Line 976: The property name _ExtentY in vkCommand16 is invalid.
+Line 977: The property name Caption in vkCommand16 is invalid.
+Line 987: The property name BorderColor in vkCommand16 is invalid.
+Line 989: The property name CustomStyle in vkCommand16 is invalid.
+Line 969: Property Picture in vkCommand16 could not be set.
+Line 998: The property name _ExtentX in vkFrame3 is invalid.
+Line 999: The property name _ExtentY in vkFrame3 is invalid.
+Line 1000: The property name Caption in vkFrame3 is invalid.
+Line 1010: The property name ShowBackGround in vkFrame3 is invalid.
+Line 1011: The property name ShowTitle in vkFrame3 is invalid.
+Line 1012: The property name TextPosition in vkFrame3 is invalid.
+Line 1013: The property name BorderColor in vkFrame3 is invalid.
+Line 1038: The property name _ExtentX in vkToggleButton1 is invalid.
+Line 1039: The property name _ExtentY in vkToggleButton1 is invalid.
+Line 1040: The property name Caption in vkToggleButton1 is invalid.
+Line 1051: The property name BorderColor in vkToggleButton1 is invalid.
+Line 1052: The property name CustomStyle in vkToggleButton1 is invalid.
+Line 1060: The property name _ExtentX in vkToggleButton3 is invalid.
+Line 1061: The property name _ExtentY in vkToggleButton3 is invalid.
+Line 1062: The property name Caption in vkToggleButton3 is invalid.
+Line 1073: The property name BorderColor in vkToggleButton3 is invalid.
+Line 1074: The property name CustomStyle in vkToggleButton3 is invalid.
+Line 1082: The property name _ExtentX in vkToggleButton4 is invalid.
+Line 1083: The property name _ExtentY in vkToggleButton4 is invalid.
+Line 1084: The property name Caption in vkToggleButton4 is invalid.
+Line 1095: The property name BorderColor in vkToggleButton4 is invalid.
+Line 1096: The property name CustomStyle in vkToggleButton4 is invalid.
+Line 1104: The property name _ExtentX in vkToggleButton5 is invalid.
+Line 1105: The property name _ExtentY in vkToggleButton5 is invalid.
+Line 1106: The property name Caption in vkToggleButton5 is invalid.
+Line 1117: The property name BorderColor in vkToggleButton5 is invalid.
+Line 1118: The property name CustomStyle in vkToggleButton5 is invalid.
+Line 1126: The property name _ExtentX in vkToggleButton6 is invalid.
+Line 1127: The property name _ExtentY in vkToggleButton6 is invalid.
+Line 1128: The property name Caption in vkToggleButton6 is invalid.
+Line 1139: The property name BorderColor in vkToggleButton6 is invalid.
+Line 1141: The property name CustomStyle in vkToggleButton6 is invalid.
+Line 1120: Property Picture in vkToggleButton6 could not be set.
+Line 1149: The property name _ExtentX in vkToggleButton2 is invalid.
+Line 1150: The property name _ExtentY in vkToggleButton2 is invalid.
+Line 1151: The property name Caption in vkToggleButton2 is invalid.
+Line 1162: The property name BorderColor in vkToggleButton2 is invalid.
+Line 1163: The property name CustomStyle in vkToggleButton2 is invalid.
+Line 1172: The property name _ExtentX in RichTextBox1 is invalid.
+Line 1173: The property name _ExtentY in RichTextBox1 is invalid.
+Line 1174: The property name _Version in RichTextBox1 is invalid.
+Line 1177: The property name TextRTF in RichTextBox1 is invalid.
+Line 1194: The property name _ExtentX in vkLabel4 is invalid.
+Line 1195: The property name _ExtentY in vkLabel4 is invalid.
+Line 1197: The property name BorderColor in vkLabel4 is invalid.
+Line 1199: The property name Caption in vkLabel4 is invalid.
+Line 1216: The property name _ExtentX in vkFrame16 is invalid.
+Line 1217: The property name _ExtentY in vkFrame16 is invalid.
+Line 1218: The property name Caption in vkFrame16 is invalid.
+Line 1228: The property name ShowBackGround in vkFrame16 is invalid.
+Line 1229: The property name ShowTitle in vkFrame16 is invalid.
+Line 1230: The property name TextPosition in vkFrame16 is invalid.
+Line 1231: The property name BorderColor in vkFrame16 is invalid.
+Line 1210: Property Picture in vkFrame16 could not be set.
+Line 1240: The property name _ExtentX in vkFrame1 is invalid.
+Line 1241: The property name _ExtentY in vkFrame1 is invalid.
+Line 1242: The property name BackColor1 in vkFrame1 is invalid.
+Line 1243: The property name BackColor2 in vkFrame1 is invalid.
+Line 1244: The property name Caption in vkFrame1 is invalid.
+Line 1254: The property name TitleColor1 in vkFrame1 is invalid.
+Line 1255: The property name TitleGradient in vkFrame1 is invalid.
+Line 1256: The property name TitleHeight in vkFrame1 is invalid.
+Line 1257: The property name BorderColor in vkFrame1 is invalid.
+Line 1258: The property name BorderWidth in vkFrame1 is invalid.
+Line 1265: The property name _ExtentX in vkFrame2 is invalid.
+Line 1266: The property name _ExtentY in vkFrame2 is invalid.
+Line 1267: The property name Caption in vkFrame2 is invalid.
+Line 1277: The property name ShowBackGround in vkFrame2 is invalid.
+Line 1278: The property name ShowTitle in vkFrame2 is invalid.
+Line 1279: The property name TextPosition in vkFrame2 is invalid.
+Line 1280: The property name BorderColor in vkFrame2 is invalid.
+Line 1287: The property name _ExtentX in vkLabel2 is invalid.
+Line 1288: The property name _ExtentY in vkLabel2 is invalid.
+Line 1290: The property name BackStyle in vkLabel2 is invalid.
+Line 1291: The property name Caption in vkLabel2 is invalid.
+Line 1308: The property name _ExtentX in vkLabel3 is invalid.
+Line 1309: The property name _ExtentY in vkLabel3 is invalid.
+Line 1311: The property name BackStyle in vkLabel3 is invalid.
+Line 1312: The property name Caption in vkLabel3 is invalid.
+Line 1329: The property name _ExtentX in vkLabel1 is invalid.
+Line 1330: The property name _ExtentY in vkLabel1 is invalid.
+Line 1332: The property name BackStyle in vkLabel1 is invalid.
+Line 1333: The property name Caption in vkLabel1 is invalid.
+Line 1375: The property name _ExtentX in vkFrame5 is invalid.
+Line 1376: The property name _ExtentY in vkFrame5 is invalid.
+Line 1377: The property name Caption in vkFrame5 is invalid.
+Line 1388: The property name ShowBackGround in vkFrame5 is invalid.
+Line 1389: The property name TitleColor1 in vkFrame5 is invalid.
+Line 1390: The property name TitleColor2 in vkFrame5 is invalid.
+Line 1391: The property name TitleGradient in vkFrame5 is invalid.
+Line 1392: The property name TitleHeight in vkFrame5 is invalid.
+Line 1393: The property name RoundAngle in vkFrame5 is invalid.
+Line 1401: The property name _ExtentX in vkFrame7 is invalid.
+Line 1402: The property name _ExtentY in vkFrame7 is invalid.
+Line 1403: The property name Caption in vkFrame7 is invalid.
+Line 1414: The property name ShowBackGround in vkFrame7 is invalid.
+Line 1415: The property name TitleColor1 in vkFrame7 is invalid.
+Line 1416: The property name TitleColor2 in vkFrame7 is invalid.
+Line 1417: The property name TitleGradient in vkFrame7 is invalid.
+Line 1418: The property name TitleHeight in vkFrame7 is invalid.
+Line 1419: The property name RoundAngle in vkFrame7 is invalid.
+Line 1427: The property name _ExtentX in vkFrame9 is invalid.
+Line 1428: The property name _ExtentY in vkFrame9 is invalid.
+Line 1429: The property name Caption in vkFrame9 is invalid.
+Line 1440: The property name ShowBackGround in vkFrame9 is invalid.
+Line 1441: The property name TitleColor1 in vkFrame9 is invalid.
+Line 1442: The property name TitleColor2 in vkFrame9 is invalid.
+Line 1443: The property name TitleGradient in vkFrame9 is invalid.
+Line 1444: The property name TitleHeight in vkFrame9 is invalid.
+Line 1445: The property name RoundAngle in vkFrame9 is invalid.
+Line 1453: The property name _ExtentX in vkFrame10 is invalid.
+Line 1454: The property name _ExtentY in vkFrame10 is invalid.
+Line 1455: The property name Caption in vkFrame10 is invalid.
+Line 1466: The property name ShowBackGround in vkFrame10 is invalid.
+Line 1467: The property name TitleColor1 in vkFrame10 is invalid.
+Line 1468: The property name TitleColor2 in vkFrame10 is invalid.
+Line 1469: The property name TitleGradient in vkFrame10 is invalid.
+Line 1470: The property name TitleHeight in vkFrame10 is invalid.
+Line 1471: The property name RoundAngle in vkFrame10 is invalid.
+Line 1479: The property name _ExtentX in vkFrame11 is invalid.
+Line 1480: The property name _ExtentY in vkFrame11 is invalid.
+Line 1481: The property name Caption in vkFrame11 is invalid.
+Line 1492: The property name ShowBackGround in vkFrame11 is invalid.
+Line 1493: The property name TitleColor1 in vkFrame11 is invalid.
+Line 1494: The property name TitleColor2 in vkFrame11 is invalid.
+Line 1495: The property name TitleGradient in vkFrame11 is invalid.
+Line 1496: The property name TitleHeight in vkFrame11 is invalid.
+Line 1497: The property name RoundAngle in vkFrame11 is invalid.
+Line 1505: The property name _ExtentX in vkFrame12 is invalid.
+Line 1506: The property name _ExtentY in vkFrame12 is invalid.
+Line 1507: The property name Caption in vkFrame12 is invalid.
+Line 1517: The property name ShowBackGround in vkFrame12 is invalid.
+Line 1518: The property name ShowTitle in vkFrame12 is invalid.
+Line 1519: The property name TextPosition in vkFrame12 is invalid.
+Line 1520: The property name BorderColor in vkFrame12 is invalid.
+Line 1527: The property name _ExtentX in vkCommand7 is invalid.
+Line 1528: The property name _ExtentY in vkCommand7 is invalid.
+Line 1529: The property name Caption in vkCommand7 is invalid.
+Line 1539: The property name BorderColor in vkCommand7 is invalid.
+Line 1541: The property name CustomStyle in vkCommand7 is invalid.
+Line 1521: Property Picture in vkCommand7 could not be set.
+Line 1550: The property name _ExtentX in vkFrame13 is invalid.
+Line 1551: The property name _ExtentY in vkFrame13 is invalid.
+Line 1552: The property name Caption in vkFrame13 is invalid.
+Line 1563: The property name ShowBackGround in vkFrame13 is invalid.
+Line 1564: The property name TitleColor1 in vkFrame13 is invalid.
+Line 1565: The property name TitleColor2 in vkFrame13 is invalid.
+Line 1566: The property name TitleGradient in vkFrame13 is invalid.
+Line 1567: The property name TitleHeight in vkFrame13 is invalid.
+Line 1568: The property name RoundAngle in vkFrame13 is invalid.
+Line 1576: The property name _ExtentX in vkFrame14 is invalid.
+Line 1577: The property name _ExtentY in vkFrame14 is invalid.
+Line 1578: The property name Caption in vkFrame14 is invalid.
+Line 1588: The property name ShowBackGround in vkFrame14 is invalid.
+Line 1589: The property name ShowTitle in vkFrame14 is invalid.
+Line 1590: The property name TextPosition in vkFrame14 is invalid.
+Line 1591: The property name BorderColor in vkFrame14 is invalid.
+Line 1598: The property name _ExtentX in vkCommand8 is invalid.
+Line 1599: The property name _ExtentY in vkCommand8 is invalid.
+Line 1600: The property name Caption in vkCommand8 is invalid.
+Line 1610: The property name BorderColor in vkCommand8 is invalid.
+Line 1612: The property name CustomStyle in vkCommand8 is invalid.
+Line 1592: Property Picture in vkCommand8 could not be set.
+Line 1621: The property name _ExtentX in vkFrame15 is invalid.
+Line 1622: The property name _ExtentY in vkFrame15 is invalid.
+Line 1623: The property name Caption in vkFrame15 is invalid.
+Line 1634: The property name ShowBackGround in vkFrame15 is invalid.
+Line 1635: The property name TitleColor1 in vkFrame15 is invalid.
+Line 1636: The property name TitleColor2 in vkFrame15 is invalid.
+Line 1637: The property name TitleGradient in vkFrame15 is invalid.
+Line 1638: The property name TitleHeight in vkFrame15 is invalid.
+Line 1639: The property name RoundAngle in vkFrame15 is invalid.
