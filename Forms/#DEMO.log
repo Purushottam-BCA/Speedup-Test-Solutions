@@ -1,0 +1,15 @@
+Line 33: Property MouseIcon in vkCommand1 had an invalid file reference.
+Line 35: Property Picture in vkCommand1 had an invalid file reference.
+Line 227: Property Picture in Picture2 had an invalid file reference.
+Line 247: Property MouseIcon in Check1 had an invalid file reference.
+Line 268: Property MouseIcon in clear had an invalid file reference.
+Line 288: Property MouseIcon in prevQ had an invalid file reference.
+Line 290: Property Picture in prevQ had an invalid file reference.
+Line 309: Property MouseIcon in nextq had an invalid file reference.
+Line 311: Property Picture in nextq had an invalid file reference.
+Line 330: Property MouseIcon in svNext had an invalid file reference.
+Line 332: Property Picture in svNext had an invalid file reference.
+Line 368: Property Picture in btn had an invalid file reference.
+Line 369: Property DisabledPicture in btn had an invalid file reference.
+Line 370: Property DownPicture in btn had an invalid file reference.
+Line 372: Property MouseIcon in btn had an invalid file reference.
