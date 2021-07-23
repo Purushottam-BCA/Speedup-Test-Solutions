@@ -12,6 +12,10 @@ A Desktop application to manage Questiions for exam, conducting MCQ Quizzes base
 
 <img src="Graphics/Admin.gif">
 
+## Reports Generated
+
+<img src="Graphics/Report.gif">
+
 ## Staff Zone
 
 <img src="Graphics/EMp.gif">
