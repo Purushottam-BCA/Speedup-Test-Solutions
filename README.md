@@ -6,7 +6,7 @@
 
 -> After an individual student give test they are provided the answer key only, but the packages registered student provided not only the answer key but also the Complete analysis of tests which is created on paper either by owner or any of the employees manually which is also time consuming.
 
--> This company provides different types of MCQ tests 
+-> This application provides different types of MCQ tests 
   <br> 	 Subject Based Test (SBT)  (35 Questions)
   <br> 	 Topic Based Test (TBT)     (25 Questions)
   <br> 	 Full Mock Test (FMT) (Vary but normally 60 Questions)
